@@ -1,3 +1,4 @@
+// Finding Greatest Common Devisor
 let arr = []
 let tmp = []
 let numb1 = prompt("input number1 : ")
@@ -18,3 +19,22 @@ for (i = 0; i < arr.length; i++) {
     }
 }
 alert("the Greatest Common Divisor is " ,   Math.max(...tmp))
+
+
+console.log('------------------------------------')
+
+// another Method 
+
+let a = prompt("import number 1 : ")
+let b = prompt("import number 2 : ")
+function GCD(a , b){
+    if (b == 0 ){
+        return a 
+    }
+    else{
+        return GCD(b, a % b)
+    }
+}
+let c = GCD(7 , 21)
+
+alert("The Greatest Common Divisor is " , c)
