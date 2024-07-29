@@ -9,6 +9,3 @@ if (number > 0 ){
    }
    is_prime.length > 2  ? alert("this is not prime") : alert("this is a prime ") 
 }
-
-for (const element of is_prime)
-   console.log(element)
