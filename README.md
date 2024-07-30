@@ -5,4 +5,4 @@
  a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 
 1. [Fibonacci Series](https://github.com/aiaaee/JS_Algorithms/tree/main/Fibonacci)
-2. [Prime Numbers]()
+2. [Prime Numbers](https://github.com/aiaaee/JS_Algorithms/tree/main/Prime_Numbers)
