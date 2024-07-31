@@ -1,14 +1,18 @@
-let arr1 = []
-for(let i = 0 ; i < 4 ; i++){
-    let a = prompt("Write your number: ")
-    arr1.push(a)
-}
-arr1 = arr1.map(item => parseInt(item))
+// method filter 
 
-for(let j = 0 ; j < arr1.length ; j++){
-    for(let k = j+1 ; k < arr1.length ; k++ ){
-        if(arr1[j] == arr1[k]){
-            
-        }
-    }
+let arr = [1 , 2, 3 , 2 , 2 , 3 , 5, 4]
+function removeDuplicates(data){
+    return data.filter((value , index) => data.indexOf(value) == index)
 }
+
+console.log(removeDuplicates(arr))
+
+
+// Sets
+
+let arr2 = [2 , 3 , 2, 1 , 3 , 4 ,6 ,2 ,3, 1 ,6]
+function removeDuplicates2(data2){
+    return [... new Set(data2)]
+}
+
+console.log(removeDuplicates2(arr2))
