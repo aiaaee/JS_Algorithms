@@ -1,4 +1,4 @@
-// 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
+
 
 
 let n = prompt("input n : ")
