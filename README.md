@@ -8,3 +8,4 @@
 2. [Prime Numbers](https://github.com/aiaaee/JS_Algorithms/tree/main/Prime_Numbers/script.js)
 3. [Great Common Devisor](https://github.com/aiaaee/JS_Algorithms/blob/main/Greatest_Common_Divisor/script.js)
 4. [Remove Duplicate](https://github.com/aiaaee/JS_Algorithms/blob/main/Remove_Duplicate/script.js)
+5. [Show Duplicate Number](https://github.com/aiaaee/JS_Algorithms/blob/main/Show_Duplicate_Numbers/script.js)
