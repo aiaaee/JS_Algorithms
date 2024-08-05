@@ -11,3 +11,6 @@
 5. [Show Duplicate Number](https://github.com/aiaaee/JS_Algorithms/blob/main/Show_Duplicate_Numbers/script.js)
 6. [Reverse In Place String](https://github.com/aiaaee/JS_Algorithms/blob/main/Reverse_In_Place_String/script.js)
 7. [Merge Two Sorted Array](https://github.com/aiaaee/JS_Algorithms/blob/main/Merge_Two_Sorted_Array/script.js)
+8. [Prime Number Factors](https://github.com/aiaaee/JS_Algorithms/tree/main/Prime_Number_Factors)
+9. [Reverse String](https://github.com/aiaaee/JS_Algorithms/blob/main/Reverse_String/script.js)
+10. [Swap Number](https://github.com/aiaaee/JS_Algorithms/blob/main/Swap_Number/script.js)
