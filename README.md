@@ -9,3 +9,4 @@
 3. [Great Common Devisor](https://github.com/aiaaee/JS_Algorithms/blob/main/Greatest_Common_Divisor/script.js)
 4. [Remove Duplicate](https://github.com/aiaaee/JS_Algorithms/blob/main/Remove_Duplicate/script.js)
 5. [Show Duplicate Number](https://github.com/aiaaee/JS_Algorithms/blob/main/Show_Duplicate_Numbers/script.js)
+6. [Reverse In Place String](https://github.com/aiaaee/JS_Algorithms/blob/main/Reverse_In_Place_String/script.js)
