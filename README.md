@@ -3,6 +3,8 @@
 ## Appropiate for doing Js Algorithms
 
  a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+ 
+![1682492048129](https://github.com/user-attachments/assets/a901aebc-0ac2-4c1b-9de1-e511c6fe7bad)
 
 1. [Fibonacci Series](https://github.com/aiaaee/JS_Algorithms/blob/main/Fibonacci/script.js)
 2. [Prime Numbers](https://github.com/aiaaee/JS_Algorithms/tree/main/Prime_Numbers/script.js)
