@@ -10,3 +10,4 @@
 4. [Remove Duplicate](https://github.com/aiaaee/JS_Algorithms/blob/main/Remove_Duplicate/script.js)
 5. [Show Duplicate Number](https://github.com/aiaaee/JS_Algorithms/blob/main/Show_Duplicate_Numbers/script.js)
 6. [Reverse In Place String](https://github.com/aiaaee/JS_Algorithms/blob/main/Reverse_In_Place_String/script.js)
+7. [Merge Two Sorted Array](https://github.com/aiaaee/JS_Algorithms/blob/main/Merge_Two_Sorted_Array/script.js)
