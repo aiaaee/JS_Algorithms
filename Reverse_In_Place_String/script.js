@@ -1,9 +1,12 @@
-let str = 'hello my name is amin'; 
-let array = [] ;
-array = str.split(' ')
-
-for (let i = 0 ; i < array.length ; i++){
-    array[i].reverse()
-    
-
+function Reverse(text){
+    text = text.toLocaleLowerCase()
+    let str = ''
+    let array = []
+    for(let i = text.length -1 ; i >= 0 ; i--){
+        str += text[i]
+    }
+    array = str.split(' ')
+    console.log(array.reverse().join(' '))
 }
+
+Reverse("Hello My Name Is Amin")
