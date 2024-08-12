@@ -6,4 +6,4 @@ function pyramid(n){
     }
     
 }
-pyramid(10)
+pyramid(100)
