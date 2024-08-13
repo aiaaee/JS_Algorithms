@@ -4,6 +4,6 @@
 
 
 
-[source]()
+[source](https://github.com/aiaaee/JS_Algorithms/blob/main/Traingle/Square.js)
 
 ![Screenshot from 2024-08-13 18-34-02 (1) (2)](https://github.com/user-attachments/assets/1f0a6e45-faa0-48d8-838b-ca2ebe6768aa)
