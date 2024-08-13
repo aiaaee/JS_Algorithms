@@ -1,5 +1,6 @@
 ## Drawing Shapes With Code 
 
+We can Drawing Mathematics shape with Javascript in easy way . it just need to know about method `repeat()` and for loops.
 
 
 [Traingle](https://github.com/aiaaee/JS_Algorithms/blob/main/Traingle/script.js) : 
