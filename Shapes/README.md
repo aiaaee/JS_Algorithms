@@ -2,6 +2,8 @@
 
 We can Drawing Mathematics shape with Javascript in easy way . it just need to know about method `repeat()` and for loops.
 
+### Description 
+The code for our custom shape examples has so far been rather tedious. We have manually created shapes by typing line after line of vertex function calls, and this strategy will not work for more complex shapes. 
 
 [Traingle](https://github.com/aiaaee/JS_Algorithms/blob/main/Traingle/script.js) : 
 
