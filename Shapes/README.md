@@ -11,6 +11,7 @@ The code for our custom shape examples has so far been rather tedious. We have m
 
 ![Screenshot from 2024-08-14 17-38-37 (1)](https://github.com/user-attachments/assets/0b68906a-3ea7-4842-9158-5491394bdc4e)
 
+![Screenshot from 2024-08-15 00-38-37](https://github.com/user-attachments/assets/f303d757-e920-4888-b609-490085dbffc3)
 
 
 [Square](https://github.com/aiaaee/JS_Algorithms/blob/main/Traingle/Square.js) : 
