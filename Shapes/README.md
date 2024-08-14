@@ -30,7 +30,7 @@ The code for our custom shape examples has so far been rather tedious. We have m
 ![Screenshot from 2024-08-13 18-46-14](https://github.com/user-attachments/assets/9202fd1c-0d9d-4d9e-98bd-6086cad91749)
 
 
-[Trapezoid]()
+[Trapezoid](https://github.com/aiaaee/JS_Algorithms/blob/main/Shapes/Trapezoid)
 
 ![Screenshot from 2024-08-15 00-50-47](https://github.com/user-attachments/assets/91424285-546b-460a-a4cb-ff64a19a009e)
 
