@@ -7,7 +7,7 @@ We can Drawing Mathematics shape with Javascript in easy way . it just need to k
 
 ![Screenshot from 2024-08-13 18-13-47](https://github.com/user-attachments/assets/788c9530-04f2-4ca9-baf3-74065c1ff0b6)
 
-![Screenshot from 2024-08-14 17-38-37](https://github.com/user-attachments/assets/94533f16-e033-432a-a36d-410f72360491)
+![Screenshot from 2024-08-14 17-38-37 (1)](https://github.com/user-attachments/assets/0b68906a-3ea7-4842-9158-5491394bdc4e)
 
 
 
