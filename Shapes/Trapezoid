@@ -1,0 +1,9 @@
+function Trapezoid(n){
+    for (let i = 0 ; i <= n ; i++){
+        let strike = ' '.repeat(n-i)
+        let stargs = '* '.repeat(n+i);
+        console.log(strike + stargs)
+    }
+}
+
+Trapezoid(8)
