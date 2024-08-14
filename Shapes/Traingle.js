@@ -18,3 +18,15 @@ function Traingle2(n){
     }
 }
 Traingle2(10)
+
+
+
+function Traingle3(n){
+    for (let i = 0 ; i <= n ; i++){
+        let strike = ' '.repeat(n-i)
+        let stargs = '* '.repeat(i);
+        console.log(strike + stargs)
+    }
+}
+
+Traingle(10)
