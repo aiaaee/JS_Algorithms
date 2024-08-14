@@ -13,6 +13,8 @@ The code for our custom shape examples has so far been rather tedious. We have m
 
 ![Screenshot from 2024-08-15 00-38-37](https://github.com/user-attachments/assets/f303d757-e920-4888-b609-490085dbffc3)
 
+![Screenshot from 2024-08-15 00-43-28](https://github.com/user-attachments/assets/8be36257-1340-4b72-b740-69ea19137c46)
+
 
 [Square](https://github.com/aiaaee/JS_Algorithms/blob/main/Traingle/Square.js) : 
 
