@@ -1,3 +1,3 @@
 ## Integral 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXCbdidLjNBK9jSLcUbxfTJq4WN4S-S3Slg&s
+![images](https://github.com/user-attachments/assets/6dbdab78-0156-4429-bc5f-ba58f7be59f9)
