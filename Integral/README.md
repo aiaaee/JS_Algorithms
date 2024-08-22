@@ -1,3 +1,5 @@
 ## Integral 
 In mathematics, an integral is the continuous analog of a sum, which is used to calculate areas, volumes, and their generalizations
-![images](https://github.com/user-attachments/assets/6dbdab78-0156-4429-bc5f-ba58f7be59f9)
+
+![Integral_example svg](https://github.com/user-attachments/assets/4e34875e-2910-4e29-86f8-d413442e052b)
+
