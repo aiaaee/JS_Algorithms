@@ -1,6 +1,6 @@
 from sympy import *
-diff((x ** 3) / (x ** 2)  )
-diff(x ** cos(x) * x)
+calculate =  diff((x ** 3) / (x ** 2)  )
+calculate = diff(x ** cos(x) * x)
 
 #------------------------------------------------------------
 from sympy import symbols, diff
