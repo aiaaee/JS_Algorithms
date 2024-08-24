@@ -1,6 +1,6 @@
 ## Derivation In Mathematics 
 
-In mathematics, a derivation is a function on an algebra that generalizes certain features of the derivative operator
+In mathematics, a derivation is a function on an algebra that generalizes certain features of the derivative operator : 
 
 ![Derivatives-Formulas-Index-AI-1](https://github.com/user-attachments/assets/b5e89f70-e404-4c02-b669-cfffb0d8afac)
 
