@@ -12,6 +12,6 @@ If (x(f = y) is an assumed function, the derivative of function f equals
 
 
 ## **Temporary** 
-Sympy covers how to do basic calculus tasks such as derivatives, integrals, limits, and series expansions in SymPy. If you are not familiar with the math of any part of this section, you may safely skip it.
+Sympy covers how to do basic calculus tasks such as derivatives, integrals, limits, and series expansions.
 
 
