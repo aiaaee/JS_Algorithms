@@ -9,3 +9,9 @@ Derivative is one of the most important and widely used concepts in the world of
 
 If (x(f = y) is an assumed function, the derivative of function f equals 
 ` f′(x) = lim ( f(x+h)−f(x) ) / h ) is limiting with  h→0 `
+
+
+## **Temporary** 
+Sympy covers how to do basic calculus tasks such as derivatives, integrals, limits, and series expansions in SymPy. If you are not familiar with the math of any part of this section, you may safely skip it.
+
+
