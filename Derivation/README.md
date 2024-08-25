@@ -11,7 +11,10 @@ If (x(f = y) is an assumed function, the derivative of function f equals
 ` f′(x) = lim ( f(x+h)−f(x) ) / h ) is limiting with  h→0 `
 
 
-## **Temporary** 
-Sympy covers how to do basic calculus tasks such as derivatives, integrals, limits, and series expansions.
 
+## Math.js 
+in that project I want to use one of the best library for computing mathematics computation with Math.js .
+### Description
+Math.js is An extensive math library for JavaScript and Node.js.
+it features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with different data types like numbers, big numbers, complex numbers, fractions, units, and matrices. Powerful and easy to use.
 
