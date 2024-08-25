@@ -18,3 +18,14 @@ in that project I want to use one of the best library for computing mathematics 
 Math.js is An extensive math library for JavaScript and Node.js.
 it features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with different data types like numbers, big numbers, complex numbers, fractions, units, and matrices. Powerful and easy to use.
 
+
+### Features 
+1. Supports numbers, big numbers, bigint, complex numbers, fractions, units, strings, arrays, and matrices.
+2. Is compatible with JavaScript’s built-in Math library.
+3. Contains a flexible expression parser.
+4. Does symbolic computation.
+5. Comes with a large set of built-in functions and constants.
+6. Can be used as a command line application as well.
+7. Runs on any JavaScript engine.
+8. Is easily extensible.
+9. Open source.
