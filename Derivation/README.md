@@ -10,7 +10,7 @@ Derivative is one of the most important and widely used concepts in the world of
 If (x(f = y) is an assumed function, the derivative of function f equals 
 ` f′(x) = lim ( f(x+h)−f(x) ) / h ) is limiting with  h→0 `
 
-
+you can read about it in [Wikipedia](https://en.wikipedia.org/wiki/Differentiation_rules)
 
 ## Math.js 
 in that project I want to use one of the best library for computing mathematics computation with Math.js .
