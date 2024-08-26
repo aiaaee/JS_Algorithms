@@ -1,18 +1,23 @@
-from sympy import *
-calculate =  diff((x ** 3) / (x ** 2)  )
-calculate = diff(x ** cos(x) * x)
+import math
 
-#------------------------------------------------------------
-from sympy import symbols, diff
+class AutoDiff:
+    def init(self, value, derivative=1.0):
+        self.value = value
+        self.derivative = derivative
 
-x = symbols('x')
-f = 3*x**2 + 2*x + 1
-f1 = 4*x**2 + 3*x**3 + 2*x
-f_prime = diff(f1, x)
-print(f_prime)
+    def add(self, other):
+        return AutoDiff(self.value + other.value, self.derivative + other.derivative)
 
-# Counting Factorial
-n = int(input("enter n : ")) 
-fact = factorial(n)
+    def mul(self, other):
+        return AutoDiff(self.value * other.value,
+                        self.value * other.derivative + self.derivative * other.value)
 
-print(fact)
+    def pow(self, power):
+        return AutoDiff(self.value  power,
+                        power * self.value  (power - 1) * self.derivative)
+
+    def exp(self):
+        return AutoDiff(math.exp(self.value), math.exp(self.value) * self.derivative)
+
+def my_exp_function(x):
+    return x.exp()
