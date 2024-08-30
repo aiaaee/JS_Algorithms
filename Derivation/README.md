@@ -1,6 +1,6 @@
 ## Derivation In Mathematics 
 
-In mathematics, a derivation is a function on an algebra that generalizes certain features of the derivative operator
+In mathematics, a derivation is a function on an algebra that generalizes certain features of the derivative operator : 
 
 ![Derivatives-Formulas-Index-AI-1](https://github.com/user-attachments/assets/b5e89f70-e404-4c02-b669-cfffb0d8afac)
 
@@ -9,3 +9,23 @@ Derivative is one of the most important and widely used concepts in the world of
 
 If (x(f = y) is an assumed function, the derivative of function f equals 
 ` f′(x) = lim ( f(x+h)−f(x) ) / h ) is limiting with  h→0 `
+
+you can read about it in [Wikipedia](https://en.wikipedia.org/wiki/Differentiation_rules)
+
+## Math.js 
+in that project I want to use one of the best library for computing mathematics computation with Math.js .
+### Description
+Math.js is An extensive math library for JavaScript and Node.js.
+it features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with different data types like numbers, big numbers, complex numbers, fractions, units, and matrices. Powerful and easy to use.
+
+
+### Features 
+1. Supports numbers, big numbers, bigint, complex numbers, fractions, units, strings, arrays, and matrices.
+2. Is compatible with JavaScript’s built-in Math library.
+3. Contains a flexible expression parser.
+4. Does symbolic computation.
+5. Comes with a large set of built-in functions and constants.
+6. Can be used as a command line application as well.
+7. Runs on any JavaScript engine.
+8. Is easily extensible.
+9. Open source.
