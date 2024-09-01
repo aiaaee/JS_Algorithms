@@ -36,8 +36,8 @@ it features a flexible expression parser with support for symbolic computation, 
 
 2. __Count Variables Function__ : The count_variables function analyzes a string representation of a function to identify unique variable names. It splits the string based on mathematical operations and checks for valid identifiers.
 
-3. __Example Usage__ :
-   - We define a simple function example_function that represents \\( f(x) = x^2 + 3x + 2 \\).
+3. __Example Usage__ (__Derivate example function__) :
+   - We define a simple function example_function that represents \\( f(x) =  3*(Math.sin(x ** 2 )) / Math.cos(x) ).
    - We provide a string representation of this function to count_variables to determine how many unique variables it contains.
    - Finally, we calculate the derivative at \\( x = 2 \\) and print the result.
 
