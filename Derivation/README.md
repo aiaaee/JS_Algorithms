@@ -2,7 +2,8 @@
 
 In mathematics, a derivation is a function on an algebra that generalizes certain features of the derivative operator : 
 
-![image](https://github.com/user-attachments/assets/cc34ad85-f581-4257-bb0f-3823691f853e)
+![image](https://github.com/user-attachments/assets/88b865ad-9912-4c2b-93ac-27fdbe9362e2)
+
 
 
 Derivative is one of the most important and widely used concepts in the world of mathematics. This concept is taught at the intermediate level along with other concepts such as limit and continuity. Derivatives of different functions have their own formulas. Understand the basics by bringing these formulas and memorizing the most important ones will help you solve many related problems in this field.
