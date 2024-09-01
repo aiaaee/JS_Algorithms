@@ -41,3 +41,5 @@ it features a flexible expression parser with support for symbolic computation, 
    - We provide a string representation of this function to count_variables to determine how many unique variables it contains.
    - Finally, we calculate the derivative at \\( x = 2 \\) and print the result.
 
+### output 
+When you run this code, you should see output in [source]()
