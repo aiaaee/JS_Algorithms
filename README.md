@@ -5,7 +5,7 @@
 ![1682492048129](https://github.com/user-attachments/assets/a901aebc-0ac2-4c1b-9de1-e511c6fe7bad)
 
 I wrote some javascripts and programming Algorithms :
-
+ 
 1. [Fibonacci Series](https://github.com/aiaaee/JS_Algorithms/blob/main/Fibonacci/script.js)
 2. [Prime Numbers](https://github.com/aiaaee/JS_Algorithms/tree/main/Prime_Numbers/script.js)
 3. [Great Common Devisor](https://github.com/aiaaee/JS_Algorithms/blob/main/Greatest_Common_Divisor/script.js)
