@@ -1,5 +1,5 @@
 # Javascript Algorithms
-
+ 
  a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. 
  
 ![1682492048129](https://github.com/user-attachments/assets/a901aebc-0ac2-4c1b-9de1-e511c6fe7bad)
